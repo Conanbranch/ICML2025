@@ -3,16 +3,16 @@ Highlights from ICML 2025
 
 # Papers
 
-[Henderson, P., Li, X., Jurafsky, D., Hashimoto, T., Lemley, M., Liang P. (2023). Foundation Models and Fair Use. *arXiv e-prints*](https://arxiv.org/pdf/2303.15715.pdf)
+[Wu. S., Et al. (2023). CollabLLM: From Passive Responders to Active Collaborators. *Forty-second International Conference on Machine Learning*](https://openreview.net/pdf?id=DmH4HHVb3y) [(Slides, Materials, Etc.)](https://icml.cc/virtual/2025/poster/45988)
 
 
 # Tutorials
 
-[Tygert,  M., (2023). *ICML Tutorial: Calibration and Bias in Algorithms, Data, and Models: a tutorial on metrics and plots for measuring calibration, bias, fairness, reliability, and robustness*](https://icml.cc/virtual/2025/40003) [(Slides, Materials, Etc.)](https://zenodo.org/records/15253140)
+[Tygert, M., (2025). *ICML Tutorial: Calibration and Bias in Algorithms, Data, and Models: a tutorial on metrics and plots for measuring calibration, bias, fairness, reliability, and robustness*](https://icml.cc/virtual/2025/40003) [(Slides, Materials, Etc.)](https://zenodo.org/records/15253140)
 
-[Yao, Z., Rai., D. (2023). *ICML Tutorial: Tutorial on Mechanistic Interpretability for Language Models*](https://icml.cc/virtual/2025/40007) [(Slides, Materials, Etc.)](https://ziyu-yao-nlp-lab.github.io/ICML25-MI-Tutorial.github.io/)
+[Yao, Z., Rai., D. (2025). *ICML Tutorial: Tutorial on Mechanistic Interpretability for Language Models*](https://icml.cc/virtual/2025/40007) [(Slides, Materials, Etc.)](https://ziyu-yao-nlp-lab.github.io/ICML25-MI-Tutorial.github.io/)
 
 # Workshops
 
-[NeurIPS 2023 Workshop: XAI in Action: Past, Present, and Future Applications](https://neurips.cc/virtual/2023/workshop/66529)
+[ICML 2025 Workshop: Workshop on Technical AI Governance](https://icml.cc/virtual/2025/workshop/39964)
 
