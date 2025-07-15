@@ -3,7 +3,7 @@ Highlights from ICML 2025
 
 # Papers
 
-[Wu. S., Et al. (2023). CollabLLM: From Passive Responders to Active Collaborators. *Forty-second International Conference on Machine Learning*](https://openreview.net/pdf?id=DmH4HHVb3y) [(Slides, Materials, Etc.)](https://icml.cc/virtual/2025/poster/45988)
+[Wu. S., Et al. (2025). CollabLLM: From Passive Responders to Active Collaborators. *Forty-second International Conference on Machine Learning*](https://openreview.net/pdf?id=DmH4HHVb3y) [(Slides, Materials, Etc.)](https://icml.cc/virtual/2025/poster/45988)
 
 
 # Tutorials
