@@ -10,7 +10,7 @@ Highlights from ICML 2025
 
 [Tygert,  M., (2023). *ICML Tutorial: Calibration and Bias in Algorithms, Data, and Models: a tutorial on metrics and plots for measuring calibration, bias, fairness, reliability, and robustness*](https://icml.cc/virtual/2025/40003) [(Slides, Materials, Etc.)](https://zenodo.org/records/15253140)
 
-[Yao, Z., Rai., D. (2023). *ICML Tutorial: Tygert,  M., (2023). *ICML Tutorial: Tutorial on Mechanistic Interpretability for Language Models*](https://icml.cc/virtual/2025/40007) [(Slides, Materials, Etc.)](https://ziyu-yao-nlp-lab.github.io/ICML25-MI-Tutorial.github.io/)
+[Yao, Z., Rai., D. (2023). *ICML Tutorial: Tutorial on Mechanistic Interpretability for Language Models*](https://icml.cc/virtual/2025/40007) [(Slides, Materials, Etc.)](https://ziyu-yao-nlp-lab.github.io/ICML25-MI-Tutorial.github.io/)
 
 # Workshops
 
