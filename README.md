@@ -5,6 +5,9 @@ Highlights from ICML 2025
 
 [Wu. S., et al. (2025). CollabLLM: From Passive Responders to Active Collaborators. *ICML*](https://openreview.net/pdf?id=DmH4HHVb3y) [(Slides, Materials, Etc.)](https://icml.cc/virtual/2025/poster/45988)
 
+[Kim, K., Lee, J., Park, S., & Kim, Y. (2025). Fair Clustering via Alignment. *ICML*](https://openreview.net/pdf?id=jImlK83NmV) [(Slides, Materials, Etc.)](https://icml.cc/virtual/2025/poster/45988)
+
+[Hazra, S., Majumder, B. P., & Chakrabarty, T. (2025). Position: AI safety should prioritize the future of work. *ICML*](https://openreview.net/pdf?id=CA9NxmmUG5) [(Slides, Materials, Etc.)](https://icml.cc/virtual/2025/poster/40166)
 
 # Tutorials
 
