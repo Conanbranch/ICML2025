@@ -9,6 +9,8 @@ Highlights from ICML 2025
 
 [Hazra, S., Majumder, B. P., & Chakrabarty, T. (2025). Position: AI safety should prioritize the future of work. *ICML*](https://openreview.net/pdf?id=CA9NxmmUG5) [(Slides, Materials, Etc.)](https://icml.cc/virtual/2025/poster/40166)
 
+[Appel, R. E. (2025). Position: Generative AI Regulation Can Learn from Social Media Regulation. *ICML*](https://openreview.net/pdf?id=fRk0nKLKrJ) [(Slides, Materials, Etc.)](https://icml.cc/virtual/2025/poster/40119)
+
 # Tutorials
 
 [Tygert, M., (2025). *ICML Tutorial: Calibration and Bias in Algorithms, Data, and Models: a tutorial on metrics and plots for measuring calibration, bias, fairness, reliability, and robustness*](https://icml.cc/virtual/2025/40003) [(Slides, Materials, Etc.)](https://zenodo.org/records/15253140)
