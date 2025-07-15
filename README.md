@@ -8,7 +8,7 @@ Highlights from ICML 2025
 
 # Tutorials
 
-[Tygert,  M., (2023). *ICML Tutorial: Calibration and Bias in Algorithms, Data, and Models: a tutorial on metrics and plots for measuring calibration, bias, fairness, reliability, and robustness*]([https://icml.cc/virtual/2023/tutorial/21551](https://icml.cc/virtual/2025/40003)) [(Slides, Materials, Etc.)]((https://zenodo.org/records/15253140))
+[Tygert,  M., (2023). *ICML Tutorial: Calibration and Bias in Algorithms, Data, and Models: a tutorial on metrics and plots for measuring calibration, bias, fairness, reliability, and robustness*](https://icml.cc/virtual/2025/40003) (Slides, Materials, Etc.)]((https://zenodo.org/records/15253140))
 
 
 # Workshops
